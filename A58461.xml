@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the taking of Prevesa by the army of the Republique of Venice</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58461</idno>
+            <idno type="STC">Wing R877</idno>
+            <idno type="STC">ESTC R4099</idno>
+            <idno type="EEBO-CITATION">11885638</idno>
+            <idno type="OCLC">ocm 11885638</idno>
+            <idno type="VID">50371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 508:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the taking of Prevesa by the army of the Republique of Venice</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Randolph Taylor,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Venice (Italy). --  Esercito.</term>
+               <term>Austro-Turkish War, 1683-1699.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:50371:1"/>
+            <pb n="1" facs="tcp:50371:1" rendition="simple:additions"/>
+            <head>A RELATION Of the TAKING of PREVESA By the ARMY of the Republique of Venice.</head>
+            <p>SEigneur <hi>Moroſini</hi> General of the <hi>Venetian</hi> Army; after having taken St. <hi>Maure</hi> with the Auxiliary Troops of the <hi>Pope:</hi> The Great Duke of <hi>Tuſcany</hi> and thoſe of <hi>Malta,</hi> was oblig'd to reſt his Soldiers ſome dayes: In the mean time he gave neceſſary Orders for the Reparation of the Fortifications of the Place, but 'twas ſo much Damnified by the Cannon and the Bombs, which had ruin'd the greateſt part of the Houſes, that 'twas impoſſible to advance the Work in ſo little time as 'twas hoped for. He was therefore forc'd to part the Work between the Soldiers and the Galley-ſlaves, that it might be the ſooner finiſhed, having a reſo<g ref="char:EOLhyphen"/>lution not to end the Campaign without ſome conſiderable Action; and that it much concern'd him not to part from St. <hi>Maure,</hi> till it was in a good condition, in caſe the <hi>Turks</hi> ſhould have any deſign to Attaque it, as they had given out. He like<g ref="char:EOLhyphen"/>wiſe commanded they ſhould carry in ſeveral Mortar-pieces, together with a great quantity of Bombs, and all ſorts of Proviſions, as well of War as others, if the place might have occaſion, to make a Vigorous Defence.</p>
+            <p>The 22 of <hi>Auguſt</hi> Seigneur <hi>Girolomo Cornaro</hi> Providor General of the Sea arrived at St. <hi>Maure,</hi> and Seigneur <hi>Moroſini</hi> having let him ſee the neceſſity of finiſhing thoſe Works he had already begun, prepared for his departure upon a new Expedition he had but newly reſolv'd upon. But after having made a general re-view of his Troops, and choſe out thoſe that ſhould enter into the Garriſon of St. <hi>Maure,</hi> there remain'd but two thouſand <hi>Venetian</hi> Troops that were fit to March, by reaſon of the Sickneſs and Fatigues which had killed abundance of his men. He therefore ſent the Collonel <hi>Angelo</hi> of <hi>Decima</hi> into the Neighbourhood to Aſſemble as many <hi>Greeks</hi> together as poſſible, the better to Fortifie his Army, and to put him in a condition to Attaque <hi>Preveſa,</hi> follow<g ref="char:EOLhyphen"/>ing the Reſolution he had taken, and which he had not 'till then declared. He learn'd al<g ref="char:EOLhyphen"/>moſt at the ſame time that the <hi>Turks</hi> had caus'd five hundred men to enter into the place, and that they had got together a number of Troops to form a Body, which was En<g ref="char:EOLhyphen"/>camped under the Cannon of the Town, and was well Entrenched. This advice did not at all hinder the General <hi>Moroſini</hi> to think of means for the execution of his De<g ref="char:EOLhyphen"/>ſigns, how difficult ſoever the Enterpriſe ſeem'd, with that ſmall number of Troops he had Ship'd off.</p>
+            <p>He ſet ſail with a part of his Army, and Anchored in the Port of <hi>Pétala;</hi> there to hear news of Collonel <hi>Angelo,</hi> who was already advanced within 26 Miles of St.
+<pb n="2" facs="tcp:50371:2"/>
+               <hi>Maure;</hi> and upon the advice he received, he drew towards the Port of <hi>Dragamette,</hi> where a landing might be made without any difficulty.</p>
+            <p>The 10th. of <hi>September</hi> he Embarked his Troops, the Army conſiſting of 2000 <hi>Vene<g ref="char:EOLhyphen"/>tians,</hi> about 1000 Auxiliaries of the <hi>Pope;</hi> the Duke of <hi>Tuſcany,</hi> and thoſe of <hi>Malta,</hi> and 15 or 1600 <hi>Greeks.</hi>
+            </p>
+            <p>Theſe Troops being advanced in the plain Country, inſtantly charged ſome <hi>Turkiſh</hi> Squadrons which were poſted in different places for the Guard of the paſſages, who immediately retir'd upon the approach of the <hi>Chriſtians.</hi> One Party of theſe Squa<g ref="char:EOLhyphen"/>drons conſiſted of the Troops which the <hi>Infidels</hi> had Aſſembled after the taking of St. <hi>Maure,</hi> and who had Encamped about <hi>Preveſa; Saban Baſſa</hi> Governour of the place had ſent them to obſerve the motions of the <hi>Chriſtian</hi> Army. Being made believe after that Action which they came from doing, they could have no deſign on <hi>Preveſa,</hi> he was therefore gone out, and put himſelf at the head of his Troops to harraſs and ſurpriſe it.</p>
+            <p>The <hi>Chriſtians</hi> entred into four or five Villages of the <hi>Turks,</hi> which they burnt, after having made ſeveral Slaves, and ravaged the Countrey for 4 or 5 days ſpace, they then re-embarked at the Port of <hi>Petalla;</hi> the General in the mean time, was with his Galleys within ſight of <hi>Patras,</hi> and <hi>Lepanto,</hi> to amuſe the <hi>Turks,</hi> and to draw them to that ſide, upon the hopes that they might more eaſily Charge the <hi>Venetian</hi> Troops, while they were diſperſed in the Plain Country.</p>
+            <p>The 15th. they came to the part of <hi>Demata.</hi> The 17th. they called a Council, where 'twas reſolv'd to Attaque <hi>Preveſa,</hi> becauſe without the Conqueſt of that Place, St. <hi>Maure</hi> being but newly reduced to the obedience of the <hi>Republique,</hi> might be readily Beſieged by the <hi>Infidells.</hi>
+            </p>
+            <p>The Fortreſs of St. <hi>Maure</hi> is within twelve Leagues of the entrance of the <hi>Golph</hi> of <hi>Arta,</hi> by the Ancients called the <hi>Golph</hi> of <hi>Ambracia:</hi> The City of <hi>Arta</hi> is Scituate on the extremity of this <hi>Golph,</hi> which is about 25 Miles in compaſs, being able to contain a great number of Ships; at the entrance of the <hi>Golph,</hi> on the Weſt ſide, ſtands the Fortreſs of <hi>Preveſa,</hi> upon the ruines of the Ancient <hi>Nicopolis,</hi> built by <hi>Auguſtus</hi> in me<g ref="char:EOLhyphen"/>mory of a Victory he gain'd againſt <hi>Mark Anthony;</hi> the place is leſs than St. <hi>Maure,</hi> but the Scituation is more advantagious, commanding the entrance of the <hi>Golph,</hi> and thoſe that are Maſters of it are alſo of a conſiderable Trade which is at <hi>Arta</hi>
+            </p>
+            <p>Seigneur <hi>Moroſini</hi> taking the Reſolutions of the Councel of War, cauſed five Gallies and ſix Gallyaſſes with Order to approach near the Caſtles to a place called <hi>Gomenizze,</hi> which are almoſt within ſight of <hi>Previſa</hi> if poſſible, to oblige the <hi>Turks</hi> to ſeperate their Forces, and to force back thoſe Troops which they had drawn toge<g ref="char:EOLhyphen"/>ther to Fortifie the Body which lay Encamped under the favour of the Cannon of the Town.</p>
+            <p>Theſe ſtratagems had all the ſucceſs the General propoſed; <hi>Saban Baſſa</hi> believing the <hi>Venetians</hi> durſt not hazard the Siege of <hi>Preveſa,</hi> Attaqued the Caſtles, and ſent back thither all the Troops he had already drawn, and the greateſt part of thoſe that lay round <hi>Preveſa,</hi> thus perſwading himſelf he ſhould ruine the Deſigns of the Ge<g ref="char:EOLhyphen"/>nerals: The <hi>Turks</hi> the more to Inſult over the <hi>Chriſtians,</hi> and to let them know they were ſenſible of their Deſigns, cauſed a general Salute of all their Cannon, with other demonſtrations of joy, when they were received into the Caſtles.</p>
+            <p>The 20th. the Army parted from <hi>Demata,</hi> and arrived about nine in the Evening at the entrance of the <hi>Golph</hi> of <hi>Arta,</hi> where they Anchor'd. The 21ſt. the Captain <hi>Manetta</hi> with 24 Barks and ſome Brigandines Armed, entred in the <hi>Golph</hi> of <hi>Preveſa,</hi> and there landed with part of the Troops; in the mean time the <hi>Turks</hi> diſcharged eight pieces of Cannon and aboat 200 Musquets, though not a man was wounded: The Gallies that were Anchor'd over againſt an Eminence called the <hi>Hill of Mahomed Effendi,</hi> advanced about the dawning of the day within Muſquet ſhot of the place, to make a Diverſion, and to facilitate the Landing of thoſe part of the Troops that were already by means of Galliots paſt an Arm of the Sea about a Mile and half over: In mean while the Gallies made a continual Firing in their turns, which hindred the <hi>Turks</hi> from coming near the Shoar.</p>
+            <p>In effect the <hi>Infidels</hi> bel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eving the <hi>Chriſtians</hi> would put their Troops aſhoar on this place, Fired their whole Cannon and Muſquets with much Confuſion, and little Da<g ref="char:EOLhyphen"/>mage
+<pb n="3" facs="tcp:50371:2"/>to the <hi>Chriſtians.</hi> The Troops being thus landed without any Loſs began to ad<g ref="char:EOLhyphen"/>vance nigh the place under the Command of General <hi>Straſoldo.</hi>
+            </p>
+            <p>The <hi>Turks</hi> that were commanded to hinder their Landing, having perceived the Fault they had committed, detached 500. <hi>Spahies,</hi> who came full ſpeed to Charge the <hi>Chriſtians</hi> before they had finiſhed their Landing, but being already in Order of Battel, and vigorouſly Firing upon the <hi>Turks,</hi> they killed and wounded a conſide<g ref="char:EOLhyphen"/>rable number, the others, without any further Diſpute, betook themſelves to Flight, and retir'd in ſo great Diſorder, that the moſt part of them could not enter the Town, the <hi>Chriſtians</hi> immediarely advanced without any further hindrance, ſeized upon the Town, and poſted themſelves upon the Hill of <hi>Mahomet Effendi,</hi> which commanded the City within Muſquet ſhot.</p>
+            <p>The 21. the <hi>Generaliſſimo</hi> having made the Gallies and Galliots approach near <hi>Pre<g ref="char:EOLhyphen"/>veſa,</hi> ſent to ſummon the <hi>Turks</hi> to deliver up the Place, threatning them to give no Quarter if they attended the laſt extremity. <hi>Saba Raſſa</hi> Governour, that was parted to put himſelf at the head of 4000. Men, to obſerve the motions of the <hi>Chri<g ref="char:EOLhyphen"/>stians,</hi> was not yet got in; but the beſieged hoped his Return in three or four days, and that he would bring Troops enough to raiſe the Siege: So the Officer that com<g ref="char:EOLhyphen"/>manded in his abſence would not receive the <hi>General</hi>'s Letter, and order'd to ſhoot him that brought it; mean time Signiour <hi>Moroſini</hi> cauſed two Cannons, and two Mortar pieces to be landed.</p>
+            <p>The 22. he landed as many more Cannon and Mortar pieces, and accompanied with the Nobleſs of his Galley, viſited the Poſts, order'd the Attacques, and plac'd the Cannons, and the Mortars upon the Batteries.</p>
+            <p>The 23. was more than 300. Bombs thrown, which beat down many Houſes, and ſet fire to ſeveral Quarters, and diſmounted ſeveral Pieces of the Enemies Can<g ref="char:EOLhyphen"/>non, the Artilery of the place was in a very ill condition, and did no effect, the Beſiegers fired with ſo much ſucceſs againſt their Batteries, that there was left but one piece of Cannon that was in a condition to ſerve them. That day there was but one Souldier kill'd, and five wounded.</p>
+            <p>The 24. Seigniour <hi>Moroſini</hi> viſited the Works, and the Batteries, and gave order for the making a Deſcent into the Ditch, where he immediately made a Lodg<g ref="char:EOLhyphen"/>ment,</p>
+            <p>The 25. Twenty <hi>Turks</hi> that night got out of the Town, by ſeveral <hi>Floren<g ref="char:EOLhyphen"/>tines</hi> which they found aſleep, they killed one, took another Priſoner, and woun<g ref="char:EOLhyphen"/>ded a third.</p>
+            <p>The 26. the Breach was conſiderable, and the Enemies made very little fire with their Muſquets.</p>
+            <p>The 27. the Works advanced with ſo much Succeſs, that on the morrow the 28. they made a Lodgment in the Ditch. The Sieur <hi>Bachili,</hi> who commanded a Party of the Troops of <hi>Malta,</hi> was killed with a Muſquet Shot, the ſame day the Mine was thought fit to be ready to play, and Orders were given to go to the Aſſault, in caſe the <hi>Turks</hi> ſhould obſtinately endeavour the Defence of the Place.</p>
+            <p>The 29 the Feaſt of St. <hi>Michael,</hi> they put out the White Flag, and demanded to capitulate, ſending ſix of theirs to propoſe Articles, and the Governour ſent Hoſta<g ref="char:EOLhyphen"/>ges five Gentlemen.</p>
+            <p>The <hi>Turks</hi> demanded that He would agree with them, on the ſame Capitulations as he had done with thoſe of St. <hi>Maure;</hi> but he declared he would make no Con<g ref="char:EOLhyphen"/>ditions with them, otherwiſe than that Thirty of the moſt conſiderable of them, ſhould go out of the Town with Arms, and Baggage, and the reſt ſhould go with<g ref="char:EOLhyphen"/>out Arms, and that they ſhould carry nothing but what they ought, and that all the <hi>Christian</hi> Slaves ſhould be ſet at Liberty. The <hi>Turks</hi> were obliged to ſubmit to theſe Conditions.</p>
+            <p>The 30. they departed out to the number of 200. Men by the Sea-Gate, and were thence conveyed by certain <hi>Greek</hi> Barks within four Miles of <hi>Arta.</hi>
+            </p>
+            <p>The <hi>Generaliſſimo Moroſini</hi> cauſed 20. <hi>Malteſes,</hi> 30. <hi>Venetians,</hi> 6. Souldiers of the Troops of the <hi>Pope,</hi> and 10. of the <hi>Florentines,</hi> to enter the Town, who had order put guards to the two Ports, and the ſeveral Avenues, to hinder the Pillage, and for the Conſervation of the Magazin. He ordered alſo at the ſame time the Standard
+<pb n="4" facs="tcp:50371:3" rendition="simple:additions"/>of St. <hi>Mark</hi> to be put up, and thoſe of the <hi>Turk</hi> to be taken down, which were carried to the General's Galley.</p>
+            <p>There was found more than 46. Pieces of Cannon in the place, eighteen of which were Braſs, and at 50. pound Ball, a quantity of Muſquets, 500. Quintals of Powder, Bullets, and all ſort of Ptoviſion in abundance, and about 1200. Inhabitants in the Place.</p>
+            <p>The Republick, by this Conqueſt, remains in Poſſeſſion of the Golph, and all the Places on that Coaſt: And the <hi>Turks</hi> in looſing that Fortreſs, have loſt one 100000. Crowns a year, which they drew from the Fiſhing on the Coaſt. The Sieur <hi>Grimano Patriarch d' Aquilie,</hi> and heretofore General of the <hi>Pope</hi>'s Gallies, having ſome time ſince in vain attacqued it without any Succeſs:</p>
+            <p>During this Progreſs of the <hi>Venetian</hi> Army, under the Conduct of the <hi>General</hi> the Sieur <hi>Alaſſandro Molino</hi> Captain extraordinary of the Ships, hearing that the Captain <hi>Baſſa,</hi> after having ſeveral times avoided the Rencounter of the <hi>Venetian</hi> Ar<g ref="char:EOLhyphen"/>my, was retired in the Port of <hi>Chio,</hi> reſolved to go there to fight him.</p>
+            <p>He ſailed that way with ſix Ships, and was no ſooner in the mouth of the Chanel, but he diſcovered a Galley, which the <hi>Turks</hi> had left to obſerve the Motion of the <hi>Venetians.</hi> This Galley, after having given ſeveral Shot, which ſerved as a Sign to the <hi>Baſsa,</hi> retired with all poſſible ſpeed; and at the ſame time, the other Gallies that were at the mouth of the Chanal, entred in the Port of <hi>Chio,</hi> the <hi>Venetians</hi> fol<g ref="char:EOLhyphen"/>lowing them, and the 20. they anchor'd at the Mouth of the Port: Having in the ſight of the Enemies Army, taken a Saick loaded with Wood from <hi>Conſtantinople,</hi> the Wind proving contrary that day, hindred the Ships from coming nearer the Land.</p>
+            <p>The 21. the Sieur <hi>Molino,</hi> having put his Ships in form of a Half Moon, and poſting himſelf in the Head of them, advanced under the Cannon of the Caſtle, from whence they fired ſeveral upon him; but that did not hinder him at all from giving a whole Broad-ſide upon the Caſtle, and the other Veſſels doing the like: The <hi>Turks</hi> anſwer<g ref="char:EOLhyphen"/>ed with the Cannon from the Caſtle; and likewiſe from a little Fort newly built by the Sea ſide, ſince the Damage received from the <hi>French</hi> Squadron, under the Com<g ref="char:EOLhyphen"/>mand of <hi>Monſieur du Queſne.</hi>
+            </p>
+            <p>The <hi>Turkiſh</hi> Gallies, to the number of 16. together with three Ships, ſtirred not in the Action, waiting only a fair opportunity of Retiring without Fighting. The <hi>Venetian</hi> Ships remained at the Entry of the Port, in the ſame Poſts they had taken, and to ſhut up the Paſſage.</p>
+            <p>The 21. and 22. at night, the Sieur <hi>Molino</hi> detached the Captain <hi>Baſſagnani,</hi> with a Ship to recover the Port, which he found would be very difficult to aſſault, becauſe of the new Fortifications the <hi>Turks</hi> had made. He was therefore reſolved to caſt up ſeveral Batteries of Bombs aſhoar, to incommode the Enemies, and to oblige them to aban<g ref="char:EOLhyphen"/>don the Port. The Sieur <hi>Delkino</hi> Captain Ordinary, advanced with the <hi>Jupiter</hi> thundring, with two other Ships, firing his Cannon upon the new Fort the whole day, but without doing much Damage; 'twas found impoſſible to land the Cannon, and therefore contented themſelves to advance four great Barks with Mortars, to throw the Bombs againſt the Gallies.</p>
+            <p>In the mean time, the Sieur <hi>Molino</hi> giving Orders to make ready the Batteries, perceived towards the beginning of the Night, eight Gallies drawing out of the Port, and with all ſpeed making towards the Coaſt of <hi>Rhodes,</hi> the <hi>Venetians</hi> immediately weighed Anchor to follow them, vigorouſly firing upon them, but the Wind falling, they could not follow them further; mean while the other Gallies got out of the Port, making a favourable uſe of the calm, to follow the others. 'Tis reported that afterwards that 3. of thoſe Gallies were ſunk by the Shot they had received, that the others were in a very ill condition, and that the Town and Caſtle of <hi>Chio,</hi> were very conſiderably damaged.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randolph Taylor,</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
